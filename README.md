@@ -47,3 +47,20 @@ This API allows users to perform CRUD operations on tasks, manage user authentic
 
 ## 📁 Folder Structure (Suggestion)
 
+
+---
+
+## 📌 Future Improvements
+
+- Add task reminders via email
+- Integrate file uploads for task attachments
+- Enable team collaboration features
+- Add analytics/dashboard for task metrics
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+
