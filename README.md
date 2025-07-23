@@ -47,6 +47,30 @@ This API allows users to perform CRUD operations on tasks, manage user authentic
 
 ## 📁 Folder Structure (Suggestion)
 
+### 📝 Description of Key Folders
+
+- **`src/`**: Main application logic lives here.
+  - `index.js`: Initializes the app and starts the server.
+  - `models/`: Defines data schemas or models.
+  - `controllers/`: Handles incoming requests and returns responses.
+  - `middlewares/`: Contains reusable middleware functions like auth, logger, etc.
+  - `routes/`: Defines application routes and attaches controllers.
+  - `services/`: Contains core business logic.
+  - `repository/`: Manages low-level DB queries and persistence logic.
+  - `config/`: Holds configuration files (e.g., DB config, env parser).
+  - `utils/`: Utility/helper functions.
+  - `migrations/`: Manages DB schema evolution (mainly for SQL DBs).
+  - `seeders/`: Seeds initial or test data into the database.
+
+- **`tests/`**: Contains unit and integration tests.
+
+- **`package.json`**: Lists project dependencies and scripts.
+
+- **`.env`**: Stores environment-specific variables (API keys, DB URIs, etc.).
+
+---
+
+Would you like this integrated into your full `README.md` file?
 
 ---
 
