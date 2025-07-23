@@ -70,10 +70,6 @@ This API allows users to perform CRUD operations on tasks, manage user authentic
 
 ---
 
-Would you like this integrated into your full `README.md` file?
-
----
-
 ## 📌 Future Improvements
 
 - Add task reminders via email
